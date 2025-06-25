@@ -1,1 +1,1 @@
-Alpaca API trading algorithm relying on analysis of stock news 
+Website for extracting latest news and sentiments analysis on stocks on demand
